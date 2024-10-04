@@ -42,4 +42,4 @@
    نحن هنا لمساعدتك في تحقيق أهدافك التقنية بطريقة مريحة وسهلة.
 
 ## Contact Us  - تواصل معنا
-[WebSite - الموقع الالكتروني](https://futuresolutionsdev.com/) | [Whatsapp - واتساب](https://wa.me/201148371185) | [FaceBook - فيسبوك](https://www.facebook.com/profile.php?id=100003818689839&mibextid=kFxxJD)
+[WebSite - الموقع الالكتروني](https://futuresolutionsdev.com/) | [Whatsapp - واتساب](https://wa.me/201148371185) | [FaceBook - فيسبوك](https://www.facebook.com/profile.php?id=100003818689839&mibextid=kFxxJD) | [Discord - ديسكورد](https://discord.gg/ZHZJRZ25Ee)
