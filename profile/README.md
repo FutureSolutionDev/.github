@@ -1,5 +1,5 @@
 ## Future Solution Dev
-   <img src="https://futuresolutionsdev.com/images/fslogo.png" width="100px" height="100px" />
+   <img src="https://futuresolutionsdev.com/og/default.png" />
 👉 =====================================  English =======================================
 
   ``` 
